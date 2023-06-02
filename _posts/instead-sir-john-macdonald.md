@@ -6,8 +6,6 @@ date: '2017-09-05T05:35:07.322Z'
 author:
   name: Laura Wiebe
   picture: '/assets/blog/authors/laura.webp'
-# ogImage:
-#   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 If, like me, you’re an Ontario-based Canadian and you pay any attention to provincial news, you likely noticed late-summer discussions about removing the name of former Prime Minister Sir John A. Macdonald from Ontario elementary schools.
