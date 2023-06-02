@@ -9,10 +9,17 @@ import oembedTransformer from "@remark-embedder/transformer-oembed";
 function handleHTML(html: string, info: TransformerInfo) {
   const { url, transformer } = info;
   if (
+    transformer.name === "@remark-embedder/transformer-oembed" &&
+    url.includes("radiopublic")
+  ) {
+    return `<div class="embed-audio">${html}</div>`;
+  }
+
+  if (
     transformer.name === "@remark-embedder/transformer-oembed" ||
     url.includes("youtube.com")
   ) {
-    return `<div class="embed-youtube aspect-video">${html}</div>`;
+    return `<div class="embed-youtube aspect-video 2">${html}</div>`;
   }
   return html;
 }

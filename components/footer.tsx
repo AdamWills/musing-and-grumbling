@@ -12,7 +12,7 @@ const Footer = () => {
             </h3>
             <p>A blog from Laura Wiebe</p>
           </div>
-          <div className="flex flex-col gap-4 lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+          <div className="flex gap-4 justify-center items-center lg:pl-4 lg:w-1/2">
             <a href="https://twitter.com/scimetalvegan/" title="Twitter">
               <svg
                 role="img"
