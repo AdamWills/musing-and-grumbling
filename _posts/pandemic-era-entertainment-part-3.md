@@ -1,10 +1,12 @@
 ---
 title: "Pandemic-era entertainment, part 3"
+coverImage: "/assets/blog/pandemic-era-entertainment-part-3/cover.jpeg"
+excerpt: "Expect more podcast recommendations and thank yous in the days/weeks to come, but for now, here are a few sports-oriented podcasts I'm grateful for."
 date: "2020-03-27"
-categories: 
+categories:
   - "entertainment"
   - "sports"
-tags: 
+tags:
   - "podcasts"
   - "sports"
 ---

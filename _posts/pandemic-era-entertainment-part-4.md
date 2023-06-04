@@ -1,7 +1,8 @@
 ---
 title: "Pandemic-era entertainment, part 4"
-date: "2020-03-27"
-categories: 
+excerpt: "Serge Ibaka and the Toronto Raptors are producing some great content to help us get through these trying times."
+date: "2020-03-28"
+categories:
   - "entertainment"
   - "sports"
 ---

@@ -1,7 +1,9 @@
 ---
 title: "It's time for the future - the right one"
+coverImage: "/assets/blog/its-time-for-the-future-the-right-one/cover.webp"
+excerpt: "I've always watched and read a lot of science fiction, but lately it's seemed more relevant and poignant than ever…"
 date: "2020-06-05"
-categories: 
+categories:
   - "education"
   - "entertainment"
   - "life-the-universe-and-everything"

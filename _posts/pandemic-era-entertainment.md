@@ -1,10 +1,12 @@
 ---
 title: "Pandemic-era entertainment, part 1"
 date: "2020-03-24"
-categories: 
+coverImage: "/assets/blog/pandemic-era-entertainment/cover.webp"
+excerpt: "It's week two of working entirely at home (in the spirit of germ containment), and I don't think I'm any more out of sorts, agitated or discombobulated than usual. But I don't have any particularly useful advice during these weird times either, and I definitely don't have any great insights or wisdom to share…"
+categories:
   - "entertainment"
   - "life-the-universe-and-everything"
-tags: 
+tags:
   - "animals"
   - "entertainment"
   - "life"
