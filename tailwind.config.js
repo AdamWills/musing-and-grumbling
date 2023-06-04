@@ -10,6 +10,7 @@ module.exports = {
         "accent-7": "#333",
         success: "#0070f3",
         cyan: "#79FFE1",
+        "musing-green": "#599a70",
       },
       spacing: {
         28: "7rem",

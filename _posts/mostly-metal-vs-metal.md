@@ -1,13 +1,10 @@
 ---
 title: 'MOSTLY metal, not ONLY metal'
 excerpt: 'Last week a friend asked me a question that got me thinking about my taste in music a little differently...'
-# coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2017-08-16T05:35:07.322Z'
 author:
   name: Laura Wiebe
   picture: '/assets/blog/authors/laura.webp'
-# ogImage:
-#   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 Last week a friend asked me a question that got me thinking about my taste in music a little differently. Knowing that I prefer to listen to metal, she asked me how I felt about the music playing in the cafe where we sat, music that was most definitely not heavy metal. She was curious if the so-not-metal music permeating public spaces annoys me or makes me grind my teeth.
