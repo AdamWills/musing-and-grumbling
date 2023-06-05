@@ -1,6 +1,5 @@
 import Container from "../components/container";
 import MoreStories from "../components/more-stories";
-import HeroPost from "../components/hero-post";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
@@ -19,8 +18,12 @@ export default function Index({ allPosts }: Props) {
         <Head>
           <title>{BLOG_NAME}</title>
         </Head>
+        <div className="bg-musing-green py-12 mb-12">
+          <Container>
+            <Intro />
+          </Container>
+        </div>
         <Container>
-          <Intro />
           <MoreStories posts={allPosts} />
         </Container>
       </Layout>
@@ -33,9 +36,9 @@ export const getStaticProps = async () => {
     "title",
     "date",
     "slug",
-    "author",
     "coverImage",
     "excerpt",
+    "hideAuthor",
   ]);
 
   return {

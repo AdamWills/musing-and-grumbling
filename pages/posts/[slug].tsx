@@ -18,7 +18,7 @@ type Props = {
   preview?: boolean;
 };
 
-export default function Post({ post, morePosts, preview }: Props) {
+export default function Post({ post, preview }: Props) {
   const router = useRouter();
   const title = `${post.title} | ${BLOG_NAME}`;
   if (!router.isFallback && !post?.slug) {
@@ -43,7 +43,7 @@ export default function Post({ post, morePosts, preview }: Props) {
                 title={post.title}
                 coverImage={post.coverImage}
                 date={post.date}
-                author={post.author}
+                hideAuthor={post.hideAuthor || false}
               />
               <PostBody content={post.content} />
             </article>
@@ -65,10 +65,10 @@ export async function getStaticProps({ params }: Params) {
     "title",
     "date",
     "slug",
-    "author",
     "content",
     "ogImage",
     "coverImage",
+    "hideAuthor",
   ]);
   const content = await markdownToHtml(post.content || "");
 

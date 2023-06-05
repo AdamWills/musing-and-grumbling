@@ -3,9 +3,6 @@ title: 'Happy Halloween! (2017)'
 excerpt: 'This is the first year in I don’t know how long where I’ve had time not just to think about Halloween but to really prepare. I’m sure things don’t look too different to the outside world…'
 date: '2017-10-31T05:35:07.322Z'
 coverImage: '/assets/blog/happy-halloween-2017/cover.webp'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 This is the first year in I don’t know how long where I’ve had time not just to think about Halloween but to really prepare. I’m sure things don’t look too different to the outside world – except that I got more decorations up earlier in October. But for me the difference is that I’ve been celebrating for pretty much the whole month.

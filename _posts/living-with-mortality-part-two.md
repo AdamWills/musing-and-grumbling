@@ -1,5 +1,6 @@
 ---
 title: "Living with mortality (part two)"
+excerpt: "In writing these posts I don't mean in any way to claim that my encounters with death and experiences of grief are unusual or somehow more significant than anyone else's. I am, or try to be, aware of my privilege and I realize I have quite a bit…"
 date: "2022-07-06"
 ---
 
@@ -19,7 +20,7 @@ That said, my Dad dying brought my Mom's mortality into focus. Yes, she was eigh
 
 Three years ago, my Mom was living about an hour away from me and I was visiting her about once a week, on one of my non-teaching days if it was during the school semester. Sometimes I'd be taking her to a medical appointment, or to pick up a few groceries, but one of her favourite things was going out for eggs and toast. Mom was a big fan of all day breakfast places.
 
-### Then came COVID-19 and the lockdown
+## Then came COVID-19 and the lockdown
 
 After we entered a global pandemic, I never really knew what was the right thing to do about visiting my mother. Knowing how best to support those who need you, knowing how much to visit, knowing how to sustain and preserve yourself - these are never easy. But add on a pandemic…
 

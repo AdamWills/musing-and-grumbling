@@ -3,9 +3,6 @@ title: 'Healthy, vegan, neither, or both?'
 excerpt: 'Did you see any headlines declaring vegetarianism a cause of heart disease this summer? I did. And, of course, as a long-time vegetarian I had to check this ostensible news out…'
 date: '2017-10-06T05:35:07.322Z'
 coverImage: '/assets/blog/healthy-vegan-neither/cover.webp'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 Did you see any headlines declaring vegetarianism a cause of heart disease this summer? I did. And, of course, as a long-time vegetarian I had to check this ostensible news out. Here are a couple of the stories I landed on:
@@ -21,8 +18,8 @@ If you follow these links but don’t read past the ledes, the message you get i
 I pushed through to the end of each piece, and this is what I eventually came away with:
 
 1. Mainstream media coverage of science is still unsatisfactory.
-1. Headlines still privilege click-baity sensationalism over accuracy.
-1. Cutting out animal products isn’t synonymous with eating healthy, or in other words, there’s plenty of plant-based junk food, and junk food is unhealthy whatever it’s made of.
+2. Headlines still privilege click-baity sensationalism over accuracy.
+3. Cutting out animal products isn’t synonymous with eating healthy, or in other words, there’s plenty of plant-based junk food, and junk food is unhealthy whatever it’s made of.
 
 So no, nothing new. Actually, that’s not quite true. I learned that a recent long-term study has provided support for the idea that eating healthy plants really is good for you.
 

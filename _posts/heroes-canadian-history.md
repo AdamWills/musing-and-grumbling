@@ -3,9 +3,6 @@ title: '(Re-)discovering the heroes of Canadian history'
 excerpt: 'One of my first posts on this young blog ended with a positive challenge to myself and others: to learn more about Canada’s lesser known historical role models. Today I want to give a virtual high five to a podcast that is doing just that.…'
 date: '2017-11-14T05:35:07.322Z'
 coverImage: '/assets/blog/heroes-canadian-history/cover.jpeg'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 [One of my first posts on this young blog](/posts/instead-sir-john-macdonald/) ended with a positive challenge to myself and others: to learn more about Canada’s lesser known historical role models. Today I want to give a virtual high five to a podcast that is doing just that.

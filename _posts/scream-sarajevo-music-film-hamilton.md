@@ -3,9 +3,6 @@ title: 'SCREAM FOR ME SARAJEVO: music and film in Hamilton'
 excerpt: 'Steeltown (Hamilton, Ontario, Canada) has way more cultural events going on than I could ever possibly take advantage of. That abundance includes music and film.…'
 coverImage: '/assets/blog/scream-sarajevo-music-film-hamilton/cover.webp'
 date: '2017-11-03T05:35:07.322Z'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 Steeltown (Hamilton, Ontario, Canada) has way more cultural events going on than I could ever possibly take advantage of. That abundance includes music and film. As a fan of heavy metal, cinema and history, one upcoming event I am certain not to miss is the November 11th screening of _Scream For Me Sarajevo_.

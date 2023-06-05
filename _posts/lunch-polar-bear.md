@@ -3,9 +3,6 @@ title: 'Lunch with a polar bear'
 excerpt: 'A year ago I was getting ready to leave for Churchill, Manitoba – because it was polar bear season and I wanted to see polar bears…'
 coverImage: '/assets/blog/lunch-polar-bear/cover.webp'
 date: '2017-10-09T05:35:07.322Z'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 A year ago I was getting ready to leave for Churchill, Manitoba – because it was polar bear season and I wanted to see polar bears. Just over five months ago I gave a presentation about my polar bear adventures to a small group of Popular Culture Association of Canada conference participants. Now it’s just about polar bear season again, so it’s time to write about my Churchill trip here.

@@ -3,9 +3,6 @@ title: "Ben Simmons: education vs college"
 date: "2017-12-15"
 excerpt: "Ever since I posted about Malcolm Brogdon, and maybe even before, I've been thinking that my next NBA post should be about Ben Simmons…"
 coverImage: '/assets/blog/ben-simmons-education/cover.webp'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 categories:
   - "education"
   - "entertainment"

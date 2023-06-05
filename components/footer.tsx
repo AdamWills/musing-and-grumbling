@@ -1,5 +1,6 @@
 import Container from "./container";
-import { EXAMPLE_PATH, BLOG_NAME } from "../lib/constants";
+import { BLOG_NAME } from "../lib/constants";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -10,7 +11,14 @@ const Footer = () => {
             <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left">
               {BLOG_NAME}
             </h3>
-            <p>A blog from Laura Wiebe</p>
+            <p>
+              <Link
+                href="/about/"
+                className="underline text-lg underline-offset-2 hover:no-underline"
+              >
+                A blog from Laura Wiebe.{" "}
+              </Link>
+            </p>
           </div>
           <div className="flex gap-4 justify-center items-center lg:pl-4 lg:w-1/2">
             <a href="https://twitter.com/scimetalvegan/" title="Twitter">

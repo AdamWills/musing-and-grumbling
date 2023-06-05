@@ -2,9 +2,6 @@
 title: 'Sports with a cause'
 excerpt: 'Last weekend we made our annual trek to TIFF (Toronto International Film Festival) and for the second year running we watched a basketball documentary…'
 date: '2017-09-22T05:35:07.322Z'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 Last weekend we made our annual trek to [TIFF](https://www.tiff.net/) (Toronto International Film Festival) and for the second year running we watched a basketball documentary. Last year it was [Giants of Africa](https://www.tiff.net/films/giants-of-africa/), which deserves its own post at the very least. This year it was [The Carter Effect](http://www.tiff.net/tiff/the-carter-effect/).

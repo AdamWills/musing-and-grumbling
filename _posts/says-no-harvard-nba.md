@@ -3,9 +3,6 @@ title: 'Who says no to Harvard and the NBA?'
 excerpt: 'One of my first posts on this young blog ended with a positive challenge to myself and others: to learn more about Canada’s lesser known historical role models. Today I want to give a virtual high five to a podcast that is doing just that.…'
 date: '2017-11-27T05:35:07.322Z'
 coverImage: '/assets/blog/says-no-harvard-nba/cover.webp'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 The answer to that question is Malcolm Brogdon. Though in the case of the NBA, his answer was more like “not yet” and, eventually, “yes.”

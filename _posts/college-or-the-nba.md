@@ -2,9 +2,6 @@
 title: 'College, or the NBA?'
 excerpt: 'Our household’s TIFF experience this year, as I mentioned in my last post,  included a screening of the basketball documentary The Carter Effect. I enjoyed the film, but I also felt like a bit of an outsider…'
 date: '2017-10-04T05:35:07.322Z'
-author:
-  name: Laura Wiebe
-  picture: '/assets/blog/authors/laura.webp'
 ---
 
 Our household’s TIFF experience this year, as I mentioned in my last post,  included a screening of the basketball documentary _The Carter Effect_. I enjoyed the film, but I also felt like a bit of an outsider – because I’m too new to NBA fandom to have appreciated Vince Carter’s career with the Raptors while it was happening. The film invited viewers to join in the reminiscing, addressing them as if they had been there all along, watching Vince Carter’s time in Toronto unfold. If you weren’t there, you were definitely encouraged to wish you had been.
