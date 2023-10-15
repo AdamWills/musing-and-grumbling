@@ -37,3 +37,4 @@
 /2022/06/01/living-with-mortality-part-one/ /posts/living-with-mortality-part-one/
 /2022/07/06/living-with-mortality-part-two/ /posts/living-with-mortality-part-two/
 /2022/08/28/dr-laura-wiebe-11-jan-1976-16-aug-2022/ /posts/dr-laura-wiebe-11-jan-1976-16-aug-2022/
+/audio/*  https://keew.s3.ca-central-1.amazonaws.com/:splat  200

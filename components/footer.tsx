@@ -19,6 +19,16 @@ const Footer = () => {
                 A blog from Laura Wiebe.{" "}
               </Link>
             </p>
+            <ul className="mt-4">
+              <li>
+                <Link
+                  href="/keew/"
+                  className="underline text-lg underline-offset-2 hover:no-underline"
+                >
+                  Kill Eat Exploit the Weak
+                </Link>
+              </li>
+            </ul>
           </div>
           <div className="flex gap-4 justify-center items-center lg:pl-4 lg:w-1/2">
             <a href="https://twitter.com/scimetalvegan/" title="Twitter">
