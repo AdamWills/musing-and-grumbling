@@ -15,7 +15,7 @@ On the weekend I watched _The Gardener_ and _Buddy_. I also finally started watc
 
 [Buddy](https://youtu.be/AKjg0ADodDo)
 
-https://www.youtube.com/watch?v=dSdjvLbgt1U
+~https://www.youtube.com/watch?v=dSdjvLbgt1U~ (no longer available)
 
 
 
