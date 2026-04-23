@@ -40,11 +40,15 @@ export default async function markdownToHtml(markdown: string) {
     .use(remarkEmbedder, {
       transformers: [oembedTransformer, BandCampTransformer],
       handleHTML,
+      handleError: ({ url }) => {
+        console.warn(`Failed to embed: ${url}`);
+        return null;
+      },
     })
     .use(remarkParse)
     .use(remarkGfm)
-    .use(remarkRehype)
-    .use(rehypeStringify)
+    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeStringify, { allowDangerousHtml: true })
     .process(markdown);
   return result.toString();
 }

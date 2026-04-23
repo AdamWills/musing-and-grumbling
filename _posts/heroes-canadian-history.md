@@ -19,19 +19,19 @@ The Shout Outs are short and to the point, and *absolutely* worth hearing. I’m
 
 Did you know the name of the “first black Canadian woman to be elected to a provincial legislature”? Have you heard the campaign slogan she used when running for the leadership of the NDP (New Democratic Party)?
 
-https://radiopublic.com/the-secret-life-of-canada-archive-WeQPRV/s1!cb0d6
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4evvIpW1XdP2WyYfBTIU9o?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Shout Out 2: Susan Olivia Poole
 
 Did you know which indigenous Canadian woman registered the patent for the Jolly Jumper?
 
-https://radiopublic.com/the-secret-life-of-canada-archive-WeQPRV/s1!9a145
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6tWeVMBsLUkkmebXZKpXM2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Shout Out 3: Abby Hoffman
 
 Are you aware of the Abby Hoffman Cup? Did you know she’s the reason women can use the indoor running track at the University of Toronto’s Hart House?
 
-https://radiopublic.com/the-secret-life-of-canada-archive-WeQPRV/s1!98b34
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1EvMiVcsWrDDrn1zT6iYs5?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
