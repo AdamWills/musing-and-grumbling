@@ -26,7 +26,7 @@ So, for those of you who enjoy poetry and Poe, and are ready to doze....
 
 ## Poetic Lullabies: Reading Poe
 
-If you like to drift off to the sound of someone’s voice - to the rhythms of speech - without getting too caught up in the words themselves or their meanings, [give this a listen](https://soundcloud.com/laura-wiebe-2/poetic-lullabies-reading-po).
+If you like to drift off to the sound of someone’s voice - to the rhythms of speech - without getting too caught up in the words themselves or their meanings, [give this a listen](https://soundcloud.com/laura-wiebe-2/poetic-lullabies-reading-poe).
 
 <!-- https://soundcloud.com/laura-wiebe-2/poetic-lullabies-reading-poe -->
 
